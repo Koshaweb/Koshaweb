@@ -1,4 +1,5 @@
-### Hi there 👋
+Hey
+I am a professional web designer & web developer in Sydney Australia. Let's help each other.
 
 <!--
 **Koshaweb/Koshaweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
